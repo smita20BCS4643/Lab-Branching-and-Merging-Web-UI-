@@ -16,4 +16,3 @@ You can create or delete branches using your repository's GitHub web page. To ad
                                                                               
  1 . Go to your repository's main page. Note that when you created your repository, the one branch named main was created for you.
 
-   ![image](https://github.com/user-attachments/assets/73229b81-93fa-4ca3-b96a-3e163d3cdf83)
