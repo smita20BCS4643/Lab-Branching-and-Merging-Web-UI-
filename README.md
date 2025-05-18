@@ -13,4 +13,5 @@ After completing this lab, you will be able to:
 ## 1. Create a branch
 You can create or delete branches using your repository's GitHub web page. To add a branch to your repository, complete the following steps:
 
-     1 . Go to your repository's main page. Note that when you created your repository, the one branch named main was created for you.
+                                                                              
+ 1 . Go to your repository's main page. Note that when you created your repository, the one branch named main was created for you.
